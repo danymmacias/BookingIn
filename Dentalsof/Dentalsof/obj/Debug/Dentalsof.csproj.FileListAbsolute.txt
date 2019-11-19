@@ -1,0 +1,323 @@
+F:\Dentalsof\Dentalsof\bin\Debug\Dentalsof.exe.config
+F:\Dentalsof\Dentalsof\bin\Debug\Dentalsof.exe
+F:\Dentalsof\Dentalsof\bin\Debug\Dentalsof.pdb
+F:\Dentalsof\Dentalsof\obj\Debug\Dentalsof.csprojResolveAssemblyReference.cache
+F:\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Menu_principal.resources
+F:\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Properties.Resources.resources
+F:\Dentalsof\Dentalsof\obj\Debug\Dentalsof.csproj.GenerateResource.Cache
+F:\Dentalsof\Dentalsof\obj\Debug\Dentalsof.exe
+F:\Dentalsof\Dentalsof\obj\Debug\Dentalsof.pdb
+E:\Dentalsof\Dentalsof\bin\Debug\Dentalsof.exe.config
+E:\Dentalsof\Dentalsof\obj\Debug\Dentalsof.exe
+E:\Dentalsof\Dentalsof\obj\Debug\Dentalsof.pdb
+E:\Dentalsof\Dentalsof\bin\Debug\Dentalsof.exe
+E:\Dentalsof\Dentalsof\bin\Debug\Dentalsof.pdb
+E:\Dentalsof\Dentalsof\obj\Debug\Dentalsof.csprojResolveAssemblyReference.cache
+E:\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Clientes.resources
+E:\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Menu_principal.resources
+E:\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Properties.Resources.resources
+E:\Dentalsof\Dentalsof\obj\Debug\Dentalsof.csproj.GenerateResource.Cache
+E:\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Clientes_nuevos.resources
+E:\Dentalsof\Dentalsof\obj\Debug\Dentalsof.cu_enfermedad.resources
+F:\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Clientes.resources
+F:\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Clientes_nuevos.resources
+F:\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Costos.resources
+F:\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Tratamientos.resources
+F:\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Citas.resources
+F:\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Pago.resources
+E:\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Citas.resources
+E:\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Costos.resources
+E:\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Historia_clinica.resources
+E:\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Pago.resources
+E:\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Tratamientos.resources
+C:\Users\Diana\Desktop\Ing software\Dentalsof\Dentalsof\bin\Debug\Dentalsof.exe.config
+C:\Users\Diana\Desktop\Ing software\Dentalsof\Dentalsof\obj\Debug\Dentalsof.exe
+C:\Users\Diana\Desktop\Ing software\Dentalsof\Dentalsof\obj\Debug\Dentalsof.pdb
+C:\Users\Diana\Desktop\Ing software\Dentalsof\Dentalsof\bin\Debug\Dentalsof.exe
+C:\Users\Diana\Desktop\Ing software\Dentalsof\Dentalsof\bin\Debug\Dentalsof.pdb
+C:\Users\Diana\Desktop\Ing software\Dentalsof\Dentalsof\obj\Debug\Dentalsof.csprojResolveAssemblyReference.cache
+C:\Users\Diana\Desktop\Ing software\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Citas.resources
+C:\Users\Diana\Desktop\Ing software\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Clientes.resources
+C:\Users\Diana\Desktop\Ing software\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Clientes_nuevos.resources
+C:\Users\Diana\Desktop\Ing software\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Costos.resources
+C:\Users\Diana\Desktop\Ing software\Dentalsof\Dentalsof\obj\Debug\Dentalsof.cu_enfermedad.resources
+C:\Users\Diana\Desktop\Ing software\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Historia_clinica.resources
+C:\Users\Diana\Desktop\Ing software\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Menu_principal.resources
+C:\Users\Diana\Desktop\Ing software\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Pago.resources
+C:\Users\Diana\Desktop\Ing software\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Properties.Resources.resources
+C:\Users\Diana\Desktop\Ing software\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Tratamientos.resources
+C:\Users\Diana\Desktop\Ing software\Dentalsof\Dentalsof\obj\Debug\Dentalsof.csproj.GenerateResource.Cache
+C:\Users\Carlos\Desktop\Dentalsof\Dentalsof\bin\Debug\Dentalsof.exe.config
+C:\Users\Carlos\Desktop\Dentalsof\Dentalsof\obj\Debug\Dentalsof.exe
+C:\Users\Carlos\Desktop\Dentalsof\Dentalsof\obj\Debug\Dentalsof.pdb
+C:\Users\Carlos\Desktop\Dentalsof\Dentalsof\obj\Debug\Dentalsof.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Citas.resources
+C:\Users\Carlos\Desktop\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Clientes.resources
+C:\Users\Carlos\Desktop\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Clientes_nuevos.resources
+C:\Users\Carlos\Desktop\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Costos.resources
+C:\Users\Carlos\Desktop\Dentalsof\Dentalsof\obj\Debug\Dentalsof.cu_enfermedad.resources
+C:\Users\Carlos\Desktop\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Historia_clinica.resources
+C:\Users\Carlos\Desktop\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Menu_principal.resources
+C:\Users\Carlos\Desktop\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Pago.resources
+C:\Users\Carlos\Desktop\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Properties.Resources.resources
+C:\Users\Carlos\Desktop\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Tratamientos.resources
+C:\Users\Carlos\Desktop\Dentalsof\Dentalsof\obj\Debug\Dentalsof.csproj.GenerateResource.Cache
+C:\Users\Carlos\Desktop\Dentalsof\Dentalsof\bin\Debug\Dentalsof.exe
+C:\Users\Carlos\Desktop\Dentalsof\Dentalsof\bin\Debug\Dentalsof.pdb
+F:\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Historial_clinico.resources
+H:\Dentalsof\Dentalsof\bin\Debug\Dentalsof.exe.config
+H:\Dentalsof\Dentalsof\obj\Debug\Dentalsof.exe
+H:\Dentalsof\Dentalsof\obj\Debug\Dentalsof.pdb
+C:\Users\Mercedes\Documents\5 Semestre\Ingenieria de software\DIANA\diana\diana\Dentalsof\Dentalsof\bin\Debug\Dentalsof.exe.config
+C:\Users\Mercedes\Documents\5 Semestre\Ingenieria de software\DIANA\diana\diana\Dentalsof\Dentalsof\obj\Debug\Dentalsof.exe
+C:\Users\Mercedes\Documents\5 Semestre\Ingenieria de software\DIANA\diana\diana\Dentalsof\Dentalsof\obj\Debug\Dentalsof.pdb
+C:\Users\Mercedes\Documents\5 Semestre\Ingenieria de software\DIANA\diana\diana\Dentalsof\Dentalsof\bin\Debug\Dentalsof.exe
+C:\Users\Mercedes\Documents\5 Semestre\Ingenieria de software\DIANA\diana\diana\Dentalsof\Dentalsof\bin\Debug\Dentalsof.pdb
+C:\Users\Mercedes\Documents\5 Semestre\Ingenieria de software\DIANA\diana\diana\Dentalsof\Dentalsof\obj\Debug\Dentalsof.csprojResolveAssemblyReference.cache
+C:\Users\Mercedes\Documents\5 Semestre\Ingenieria de software\DIANA\diana\diana\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Citas.resources
+C:\Users\Mercedes\Documents\5 Semestre\Ingenieria de software\DIANA\diana\diana\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Clientes.resources
+C:\Users\Mercedes\Documents\5 Semestre\Ingenieria de software\DIANA\diana\diana\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Clientes_nuevos.resources
+C:\Users\Mercedes\Documents\5 Semestre\Ingenieria de software\DIANA\diana\diana\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Costos.resources
+C:\Users\Mercedes\Documents\5 Semestre\Ingenieria de software\DIANA\diana\diana\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Historial_clinico.resources
+C:\Users\Mercedes\Documents\5 Semestre\Ingenieria de software\DIANA\diana\diana\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Menu_principal.resources
+C:\Users\Mercedes\Documents\5 Semestre\Ingenieria de software\DIANA\diana\diana\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Pago.resources
+C:\Users\Mercedes\Documents\5 Semestre\Ingenieria de software\DIANA\diana\diana\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Properties.Resources.resources
+C:\Users\Mercedes\Documents\5 Semestre\Ingenieria de software\DIANA\diana\diana\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Tratamientos.resources
+C:\Users\Mercedes\Documents\5 Semestre\Ingenieria de software\DIANA\diana\diana\Dentalsof\Dentalsof\obj\Debug\Dentalsof.csproj.GenerateResource.Cache
+C:\Users\Carlos\Desktop\interfaz bonita\Dentalsof\Dentalsof\bin\Debug\Dentalsof.exe.config
+C:\Users\Carlos\Desktop\interfaz bonita\Dentalsof\Dentalsof\obj\Debug\Dentalsof.exe
+C:\Users\Carlos\Desktop\interfaz bonita\Dentalsof\Dentalsof\obj\Debug\Dentalsof.pdb
+C:\Users\Diana\Downloads\Dentalsof\Dentalsof\bin\Debug\Dentalsof.exe.config
+C:\Users\Diana\Downloads\Dentalsof\Dentalsof\obj\Debug\Dentalsof.exe
+C:\Users\Diana\Downloads\Dentalsof\Dentalsof\obj\Debug\Dentalsof.pdb
+C:\Users\Diana\Downloads\Dentalsof\Dentalsof\bin\Debug\Dentalsof.exe
+C:\Users\Diana\Downloads\Dentalsof\Dentalsof\bin\Debug\Dentalsof.pdb
+C:\Users\Diana\Downloads\Dentalsof\Dentalsof\obj\Debug\Dentalsof.csprojResolveAssemblyReference.cache
+C:\Users\Diana\Downloads\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Citas.resources
+C:\Users\Diana\Downloads\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Clientes.resources
+C:\Users\Diana\Downloads\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Clientes_nuevos.resources
+C:\Users\Diana\Downloads\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Costos.resources
+C:\Users\Diana\Downloads\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Historial_clinico.resources
+C:\Users\Diana\Downloads\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Menu_principal.resources
+C:\Users\Diana\Downloads\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Pago.resources
+C:\Users\Diana\Downloads\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Properties.Resources.resources
+C:\Users\Diana\Downloads\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Tratamientos.resources
+C:\Users\Diana\Downloads\Dentalsof\Dentalsof\obj\Debug\Dentalsof.csproj.GenerateResource.Cache
+C:\Users\Diana\Downloads\Dentalsof_3juntos\Dentalsof\bin\Debug\Dentalsof.exe.config
+C:\Users\Diana\Downloads\Dentalsof_3juntos\Dentalsof\obj\Debug\Dentalsof.exe
+C:\Users\Diana\Downloads\Dentalsof_3juntos\Dentalsof\obj\Debug\Dentalsof.pdb
+F:\Dentalsof_3juntos\Dentalsof\bin\Debug\Dentalsof.exe.config
+F:\Dentalsof_3juntos\Dentalsof\obj\Debug\Dentalsof.exe
+F:\Dentalsof_3juntos\Dentalsof\obj\Debug\Dentalsof.pdb
+F:\Dentalsof_3juntos\Dentalsof\obj\Debug\Dentalsof.csprojResolveAssemblyReference.cache
+F:\Dentalsof_3juntos\Dentalsof\obj\Debug\Dentalsof.Citas.resources
+F:\Dentalsof_3juntos\Dentalsof\obj\Debug\Dentalsof.Clientes.resources
+F:\Dentalsof_3juntos\Dentalsof\obj\Debug\Dentalsof.Clientes_nuevos.resources
+F:\Dentalsof_3juntos\Dentalsof\obj\Debug\Dentalsof.Costos.resources
+F:\Dentalsof_3juntos\Dentalsof\obj\Debug\Dentalsof.Historial_clinico.resources
+F:\Dentalsof_3juntos\Dentalsof\obj\Debug\Dentalsof.Menu_principal.resources
+F:\Dentalsof_3juntos\Dentalsof\obj\Debug\Dentalsof.Pago.resources
+F:\Dentalsof_3juntos\Dentalsof\obj\Debug\Dentalsof.Properties.Resources.resources
+F:\Dentalsof_3juntos\Dentalsof\obj\Debug\Dentalsof.Tratamientos.resources
+F:\Dentalsof_3juntos\Dentalsof\obj\Debug\Dentalsof.csproj.GenerateResource.Cache
+F:\Dentalsof_3juntos\Dentalsof\bin\Debug\Dentalsof.exe
+F:\Dentalsof_3juntos\Dentalsof\bin\Debug\Dentalsof.pdb
+E:\Dentalsof_3juntos\Dentalsof\bin\Debug\Dentalsof.exe.config
+E:\Dentalsof_3juntos\Dentalsof\obj\Debug\Dentalsof.exe
+E:\Dentalsof_3juntos\Dentalsof\obj\Debug\Dentalsof.pdb
+C:\Users\Mercedes\Documents\5 Semestre\Ingenieria de software\Dentalsof_3juntos\Dentalsof_3juntos\Dentalsof\bin\Debug\Dentalsof.exe.config
+C:\Users\Mercedes\Documents\5 Semestre\Ingenieria de software\Dentalsof_3juntos\Dentalsof_3juntos\Dentalsof\obj\Debug\Dentalsof.exe
+C:\Users\Mercedes\Documents\5 Semestre\Ingenieria de software\Dentalsof_3juntos\Dentalsof_3juntos\Dentalsof\obj\Debug\Dentalsof.pdb
+C:\Users\Mercedes\Documents\5 Semestre\Ingenieria de software\Dentalsof_3juntos\Dentalsof_3juntos\Dentalsof\bin\Debug\Dentalsof.exe
+C:\Users\Mercedes\Documents\5 Semestre\Ingenieria de software\Dentalsof_3juntos\Dentalsof_3juntos\Dentalsof\bin\Debug\Dentalsof.pdb
+C:\Users\Mercedes\Documents\5 Semestre\Ingenieria de software\Dentalsof_3juntos\Dentalsof_3juntos\Dentalsof\obj\Debug\Dentalsof.csprojResolveAssemblyReference.cache
+C:\Users\Mercedes\Documents\5 Semestre\Ingenieria de software\Dentalsof_3juntos\Dentalsof_3juntos\Dentalsof\obj\Debug\Dentalsof.Citas.resources
+C:\Users\Mercedes\Documents\5 Semestre\Ingenieria de software\Dentalsof_3juntos\Dentalsof_3juntos\Dentalsof\obj\Debug\Dentalsof.Clientes.resources
+C:\Users\Mercedes\Documents\5 Semestre\Ingenieria de software\Dentalsof_3juntos\Dentalsof_3juntos\Dentalsof\obj\Debug\Dentalsof.Clientes_nuevos.resources
+C:\Users\Mercedes\Documents\5 Semestre\Ingenieria de software\Dentalsof_3juntos\Dentalsof_3juntos\Dentalsof\obj\Debug\Dentalsof.Costos.resources
+C:\Users\Mercedes\Documents\5 Semestre\Ingenieria de software\Dentalsof_3juntos\Dentalsof_3juntos\Dentalsof\obj\Debug\Dentalsof.Historial_clinico.resources
+C:\Users\Mercedes\Documents\5 Semestre\Ingenieria de software\Dentalsof_3juntos\Dentalsof_3juntos\Dentalsof\obj\Debug\Dentalsof.Menu_principal.resources
+C:\Users\Mercedes\Documents\5 Semestre\Ingenieria de software\Dentalsof_3juntos\Dentalsof_3juntos\Dentalsof\obj\Debug\Dentalsof.Pago.resources
+C:\Users\Mercedes\Documents\5 Semestre\Ingenieria de software\Dentalsof_3juntos\Dentalsof_3juntos\Dentalsof\obj\Debug\Dentalsof.Properties.Resources.resources
+C:\Users\Mercedes\Documents\5 Semestre\Ingenieria de software\Dentalsof_3juntos\Dentalsof_3juntos\Dentalsof\obj\Debug\Dentalsof.Tratamientos.resources
+C:\Users\Mercedes\Documents\5 Semestre\Ingenieria de software\Dentalsof_3juntos\Dentalsof_3juntos\Dentalsof\obj\Debug\Dentalsof.csproj.GenerateResource.Cache
+F:\Dentalsof_3juntos\Dentalsof_3juntos\Dentalsof\bin\Debug\Dentalsof.exe.config
+F:\Dentalsof_3juntos\Dentalsof_3juntos\Dentalsof\obj\Debug\Dentalsof.exe
+F:\Dentalsof_3juntos\Dentalsof_3juntos\Dentalsof\obj\Debug\Dentalsof.pdb
+F:\Dentalsof_3juntos\Dentalsof_3juntos\Dentalsof\bin\Debug\Dentalsof.exe
+F:\Dentalsof_3juntos\Dentalsof_3juntos\Dentalsof\bin\Debug\Dentalsof.pdb
+F:\Dentalsof_3juntos\Dentalsof_3juntos\Dentalsof\obj\Debug\Dentalsof.csprojResolveAssemblyReference.cache
+F:\Dentalsof_3juntos\Dentalsof_3juntos\Dentalsof\obj\Debug\Dentalsof.Citas.resources
+F:\Dentalsof_3juntos\Dentalsof_3juntos\Dentalsof\obj\Debug\Dentalsof.Clientes.resources
+F:\Dentalsof_3juntos\Dentalsof_3juntos\Dentalsof\obj\Debug\Dentalsof.Clientes_nuevos.resources
+F:\Dentalsof_3juntos\Dentalsof_3juntos\Dentalsof\obj\Debug\Dentalsof.Costos.resources
+F:\Dentalsof_3juntos\Dentalsof_3juntos\Dentalsof\obj\Debug\Dentalsof.Historial_clinico.resources
+F:\Dentalsof_3juntos\Dentalsof_3juntos\Dentalsof\obj\Debug\Dentalsof.Menu_principal.resources
+F:\Dentalsof_3juntos\Dentalsof_3juntos\Dentalsof\obj\Debug\Dentalsof.Pago.resources
+F:\Dentalsof_3juntos\Dentalsof_3juntos\Dentalsof\obj\Debug\Dentalsof.Properties.Resources.resources
+F:\Dentalsof_3juntos\Dentalsof_3juntos\Dentalsof\obj\Debug\Dentalsof.Tratamientos.resources
+F:\Dentalsof_3juntos\Dentalsof_3juntos\Dentalsof\obj\Debug\Dentalsof.csproj.GenerateResource.Cache
+C:\Users\Hernandez Varela\Desktop\Dentalsof_4juntos\Dentalsof\bin\Debug\Dentalsof.exe.config
+C:\Users\Hernandez Varela\Desktop\Dentalsof_4juntos\Dentalsof\obj\Debug\Dentalsof.exe
+C:\Users\Hernandez Varela\Desktop\Dentalsof_4juntos\Dentalsof\obj\Debug\Dentalsof.pdb
+C:\Users\Hernandez Varela\Desktop\Dentalsof_4juntos\Dentalsof\bin\Debug\Dentalsof.exe
+C:\Users\Hernandez Varela\Desktop\Dentalsof_4juntos\Dentalsof\bin\Debug\Dentalsof.pdb
+C:\Users\Hernandez Varela\Desktop\Dentalsof_4juntos\Dentalsof\obj\Debug\Dentalsof.csprojResolveAssemblyReference.cache
+C:\Users\Hernandez Varela\Desktop\Dentalsof_4juntos\Dentalsof\obj\Debug\Dentalsof.Citas.resources
+C:\Users\Hernandez Varela\Desktop\Dentalsof_4juntos\Dentalsof\obj\Debug\Dentalsof.Clientes.resources
+C:\Users\Hernandez Varela\Desktop\Dentalsof_4juntos\Dentalsof\obj\Debug\Dentalsof.Clientes_nuevos.resources
+C:\Users\Hernandez Varela\Desktop\Dentalsof_4juntos\Dentalsof\obj\Debug\Dentalsof.Costos.resources
+C:\Users\Hernandez Varela\Desktop\Dentalsof_4juntos\Dentalsof\obj\Debug\Dentalsof.Historial_clinico.resources
+C:\Users\Hernandez Varela\Desktop\Dentalsof_4juntos\Dentalsof\obj\Debug\Dentalsof.Menu_principal.resources
+C:\Users\Hernandez Varela\Desktop\Dentalsof_4juntos\Dentalsof\obj\Debug\Dentalsof.Pago.resources
+C:\Users\Hernandez Varela\Desktop\Dentalsof_4juntos\Dentalsof\obj\Debug\Dentalsof.Properties.Resources.resources
+C:\Users\Hernandez Varela\Desktop\Dentalsof_4juntos\Dentalsof\obj\Debug\Dentalsof.Tratamientos.resources
+C:\Users\Hernandez Varela\Desktop\Dentalsof_4juntos\Dentalsof\obj\Debug\Dentalsof.csproj.GenerateResource.Cache
+C:\Users\Hernandez Varela\Desktop\Dentalsof_4juntos\Dentalsof\obj\Debug\Dentalsof.Expediente.resources
+E:\Dentalsof_4juntos - copia\Dentalsof\bin\Debug\Dentalsof.exe.config
+E:\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.exe
+E:\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.pdb
+E:\Dentalsof_4juntos - copia\Dentalsof\bin\Debug\Dentalsof.exe
+E:\Dentalsof_4juntos - copia\Dentalsof\bin\Debug\Dentalsof.pdb
+E:\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.csprojResolveAssemblyReference.cache
+E:\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.Citas.resources
+E:\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.Clientes.resources
+E:\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.Clientes_nuevos.resources
+E:\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.Costos.resources
+E:\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.Expediente.resources
+E:\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.Historial_clinico.resources
+E:\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.Menu_principal.resources
+E:\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.Pago.resources
+E:\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.Properties.Resources.resources
+E:\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.Tratamientos.resources
+E:\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.csproj.GenerateResource.Cache
+F:\Dentalsof_4juntos - copia\Dentalsof\bin\Debug\Dentalsof.exe.config
+F:\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.exe
+F:\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.pdb
+F:\Dentalsof_4juntos - copia\Dentalsof\bin\Debug\Dentalsof.exe
+F:\Dentalsof_4juntos - copia\Dentalsof\bin\Debug\Dentalsof.pdb
+F:\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.csprojResolveAssemblyReference.cache
+F:\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.Citas.resources
+F:\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.Clientes.resources
+F:\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.Clientes_nuevos.resources
+F:\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.Costos.resources
+F:\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.Expediente.resources
+F:\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.Historial_clinico.resources
+F:\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.Menu_principal.resources
+F:\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.Pago.resources
+F:\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.Properties.Resources.resources
+F:\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.Tratamientos.resources
+F:\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.csproj.GenerateResource.Cache
+G:\Dentalsof_4juntos - copia\Dentalsof\bin\Debug\Dentalsof.exe.config
+G:\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.exe
+G:\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.pdb
+G:\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.csprojResolveAssemblyReference.cache
+G:\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.Citas.resources
+G:\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.Clientes.resources
+G:\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.Clientes_nuevos.resources
+G:\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.Costos.resources
+G:\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.Expediente.resources
+G:\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.Historial_clinico.resources
+G:\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.Menu_principal.resources
+G:\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.Pago.resources
+G:\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.Properties.Resources.resources
+G:\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.Tratamientos.resources
+G:\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.csproj.GenerateResource.Cache
+G:\Dentalsof_4juntos - copia\Dentalsof\bin\Debug\Dentalsof.exe
+G:\Dentalsof_4juntos - copia\Dentalsof\bin\Debug\Dentalsof.pdb
+C:\Users\HERNANDEZ VARELA\Downloads\ProyectoBettina\Dentalsof_4juntos - copia\Dentalsof\bin\Debug\Dentalsof.exe.config
+C:\Users\HERNANDEZ VARELA\Downloads\ProyectoBettina\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.exe
+C:\Users\HERNANDEZ VARELA\Downloads\ProyectoBettina\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.pdb
+C:\Users\HERNANDEZ VARELA\Downloads\ProyectoBettina\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.csprojResolveAssemblyReference.cache
+C:\Users\HERNANDEZ VARELA\Downloads\ProyectoBettina\Dentalsof_4juntos - copia\Dentalsof\bin\Debug\Dentalsof.exe
+C:\Users\HERNANDEZ VARELA\Downloads\ProyectoBettina\Dentalsof_4juntos - copia\Dentalsof\bin\Debug\Dentalsof.pdb
+C:\Users\HERNANDEZ VARELA\Downloads\ProyectoBettina\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.Citas.resources
+C:\Users\HERNANDEZ VARELA\Downloads\ProyectoBettina\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.Clientes.resources
+C:\Users\HERNANDEZ VARELA\Downloads\ProyectoBettina\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.Clientes_nuevos.resources
+C:\Users\HERNANDEZ VARELA\Downloads\ProyectoBettina\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.Costos.resources
+C:\Users\HERNANDEZ VARELA\Downloads\ProyectoBettina\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.Expediente.resources
+C:\Users\HERNANDEZ VARELA\Downloads\ProyectoBettina\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.Historial_clinico.resources
+C:\Users\HERNANDEZ VARELA\Downloads\ProyectoBettina\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.Menu_principal.resources
+C:\Users\HERNANDEZ VARELA\Downloads\ProyectoBettina\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.Pago.resources
+C:\Users\HERNANDEZ VARELA\Downloads\ProyectoBettina\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.Properties.Resources.resources
+C:\Users\HERNANDEZ VARELA\Downloads\ProyectoBettina\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.Tratamientos.resources
+C:\Users\HERNANDEZ VARELA\Downloads\ProyectoBettina\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.csproj.GenerateResource.Cache
+C:\Users\HERNANDEZ VARELA\Desktop\Dentalsof_4juntos - copia\Dentalsof\bin\Debug\Dentalsof.exe.config
+C:\Users\HERNANDEZ VARELA\Desktop\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.exe
+C:\Users\HERNANDEZ VARELA\Desktop\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.csprojResolveAssemblyReference.cache
+C:\Users\HERNANDEZ VARELA\Desktop\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.Citas.resources
+C:\Users\HERNANDEZ VARELA\Desktop\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.Clientes.resources
+C:\Users\HERNANDEZ VARELA\Desktop\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.Clientes_nuevos.resources
+C:\Users\HERNANDEZ VARELA\Desktop\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.Costos.resources
+C:\Users\HERNANDEZ VARELA\Desktop\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.Expediente.resources
+C:\Users\HERNANDEZ VARELA\Desktop\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.Historial_clinico.resources
+C:\Users\HERNANDEZ VARELA\Desktop\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.Menu_principal.resources
+C:\Users\HERNANDEZ VARELA\Desktop\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.Pago.resources
+C:\Users\HERNANDEZ VARELA\Desktop\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.Properties.Resources.resources
+C:\Users\HERNANDEZ VARELA\Desktop\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.Tratamientos.resources
+C:\Users\HERNANDEZ VARELA\Desktop\Dentalsof_4juntos - copia\Dentalsof\obj\Debug\Dentalsof.csproj.GenerateResource.Cache
+C:\Users\HERNANDEZ VARELA\Desktop\Gestion\Dentalsof\Dentalsof\bin\Debug\Dentalsof.exe.config
+C:\Users\HERNANDEZ VARELA\Desktop\Gestion\Dentalsof\Dentalsof\obj\Debug\Dentalsof.exe
+C:\Users\HERNANDEZ VARELA\Desktop\Gestion\Dentalsof\Dentalsof\obj\Debug\Dentalsof.csprojResolveAssemblyReference.cache
+C:\Users\HERNANDEZ VARELA\Desktop\Gestion\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Citas.resources
+C:\Users\HERNANDEZ VARELA\Desktop\Gestion\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Clientes.resources
+C:\Users\HERNANDEZ VARELA\Desktop\Gestion\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Clientes_nuevos.resources
+C:\Users\HERNANDEZ VARELA\Desktop\Gestion\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Costos.resources
+C:\Users\HERNANDEZ VARELA\Desktop\Gestion\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Expediente.resources
+C:\Users\HERNANDEZ VARELA\Desktop\Gestion\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Historial_clinico.resources
+C:\Users\HERNANDEZ VARELA\Desktop\Gestion\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Menu_principal.resources
+C:\Users\HERNANDEZ VARELA\Desktop\Gestion\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Pago.resources
+C:\Users\HERNANDEZ VARELA\Desktop\Gestion\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Properties.Resources.resources
+C:\Users\HERNANDEZ VARELA\Desktop\Gestion\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Tratamientos.resources
+C:\Users\HERNANDEZ VARELA\Desktop\Gestion\Dentalsof\Dentalsof\obj\Debug\Dentalsof.csproj.GenerateResource.Cache
+C:\Users\HERNANDEZ VARELA\Desktop\Dentalsof\Dentalsof\bin\Debug\Dentalsof.exe.config
+C:\Users\HERNANDEZ VARELA\Desktop\Dentalsof\Dentalsof\obj\Debug\Dentalsof.exe
+C:\Users\HERNANDEZ VARELA\Desktop\Dentalsof\Dentalsof\obj\Debug\Dentalsof.csprojResolveAssemblyReference.cache
+C:\Users\HERNANDEZ VARELA\Desktop\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Citas.resources
+C:\Users\HERNANDEZ VARELA\Desktop\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Clientes.resources
+C:\Users\HERNANDEZ VARELA\Desktop\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Clientes_nuevos.resources
+C:\Users\HERNANDEZ VARELA\Desktop\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Costos.resources
+C:\Users\HERNANDEZ VARELA\Desktop\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Expediente.resources
+C:\Users\HERNANDEZ VARELA\Desktop\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Historial_clinico.resources
+C:\Users\HERNANDEZ VARELA\Desktop\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Menu_principal.resources
+C:\Users\HERNANDEZ VARELA\Desktop\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Pago.resources
+C:\Users\HERNANDEZ VARELA\Desktop\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Properties.Resources.resources
+C:\Users\HERNANDEZ VARELA\Desktop\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Tratamientos.resources
+C:\Users\HERNANDEZ VARELA\Desktop\Dentalsof\Dentalsof\obj\Debug\Dentalsof.csproj.GenerateResource.Cache
+C:\Users\HERNANDEZ VARELA\Desktop\Dentalsof\Dentalsof\bin\Debug\Dentalsof.exe
+C:\Users\HERNANDEZ VARELA\Desktop\Dentalsof\Dentalsof\bin\Debug\Dentalsof.pdb
+C:\Users\HERNANDEZ VARELA\Desktop\Dentalsof\Dentalsof\obj\Debug\Dentalsof.pdb
+C:\Users\HERNANDEZ VARELA\Desktop\Desarrollo de proyectos 2\Sistema\Dentalsof\Dentalsof\bin\Debug\Dentalsof.exe.config
+C:\Users\HERNANDEZ VARELA\Desktop\Desarrollo de proyectos 2\Sistema\Dentalsof\Dentalsof\obj\Debug\Dentalsof.exe
+C:\Users\HERNANDEZ VARELA\Desktop\Desarrollo de proyectos 2\Sistema\Dentalsof\Dentalsof\obj\Debug\Dentalsof.pdb
+C:\Users\HERNANDEZ VARELA\Desktop\Desarrollo de proyectos 2\Sistema\Dentalsof\Dentalsof\bin\Debug\Dentalsof.exe
+C:\Users\HERNANDEZ VARELA\Desktop\Desarrollo de proyectos 2\Sistema\Dentalsof\Dentalsof\bin\Debug\Dentalsof.pdb
+C:\Users\HERNANDEZ VARELA\Desktop\Desarrollo de proyectos 2\Sistema\Dentalsof\Dentalsof\obj\Debug\Dentalsof.csprojResolveAssemblyReference.cache
+C:\Users\HERNANDEZ VARELA\Desktop\Desarrollo de proyectos 2\Sistema\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Citas.resources
+C:\Users\HERNANDEZ VARELA\Desktop\Desarrollo de proyectos 2\Sistema\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Clientes.resources
+C:\Users\HERNANDEZ VARELA\Desktop\Desarrollo de proyectos 2\Sistema\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Clientes_nuevos.resources
+C:\Users\HERNANDEZ VARELA\Desktop\Desarrollo de proyectos 2\Sistema\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Costos.resources
+C:\Users\HERNANDEZ VARELA\Desktop\Desarrollo de proyectos 2\Sistema\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Expediente.resources
+C:\Users\HERNANDEZ VARELA\Desktop\Desarrollo de proyectos 2\Sistema\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Historial_clinico.resources
+C:\Users\HERNANDEZ VARELA\Desktop\Desarrollo de proyectos 2\Sistema\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Menu_principal.resources
+C:\Users\HERNANDEZ VARELA\Desktop\Desarrollo de proyectos 2\Sistema\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Pago.resources
+C:\Users\HERNANDEZ VARELA\Desktop\Desarrollo de proyectos 2\Sistema\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Properties.Resources.resources
+C:\Users\HERNANDEZ VARELA\Desktop\Desarrollo de proyectos 2\Sistema\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Tratamientos.resources
+C:\Users\HERNANDEZ VARELA\Desktop\Desarrollo de proyectos 2\Sistema\Dentalsof\Dentalsof\obj\Debug\Dentalsof.csproj.GenerateResource.Cache
+C:\Users\Daniela Macias\Desktop\Sistema\Sistema\Dentalsof\Dentalsof\bin\Debug\Dentalsof.exe.config
+C:\Users\Daniela Macias\Desktop\Sistema\Sistema\Dentalsof\Dentalsof\obj\Debug\Dentalsof.exe
+C:\Users\Daniela Macias\Desktop\Sistema\Sistema\Dentalsof\Dentalsof\obj\Debug\Dentalsof.pdb
+C:\Users\Daniela Macias\Desktop\Sistema\Sistema\Dentalsof\Dentalsof\bin\Debug\Dentalsof.exe
+C:\Users\Daniela Macias\Desktop\Sistema\Sistema\Dentalsof\Dentalsof\bin\Debug\Dentalsof.pdb
+C:\Users\Daniela Macias\Desktop\Sistema\Sistema\Dentalsof\Dentalsof\obj\Debug\Dentalsof.csprojResolveAssemblyReference.cache
+C:\Users\Daniela Macias\Desktop\Sistema\Sistema\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Citas.resources
+C:\Users\Daniela Macias\Desktop\Sistema\Sistema\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Clientes.resources
+C:\Users\Daniela Macias\Desktop\Sistema\Sistema\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Clientes_nuevos.resources
+C:\Users\Daniela Macias\Desktop\Sistema\Sistema\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Costos.resources
+C:\Users\Daniela Macias\Desktop\Sistema\Sistema\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Expediente.resources
+C:\Users\Daniela Macias\Desktop\Sistema\Sistema\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Historial_clinico.resources
+C:\Users\Daniela Macias\Desktop\Sistema\Sistema\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Menu_principal.resources
+C:\Users\Daniela Macias\Desktop\Sistema\Sistema\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Pago.resources
+C:\Users\Daniela Macias\Desktop\Sistema\Sistema\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Properties.Resources.resources
+C:\Users\Daniela Macias\Desktop\Sistema\Sistema\Dentalsof\Dentalsof\obj\Debug\Dentalsof.Tratamientos.resources
+C:\Users\Daniela Macias\Desktop\Sistema\Sistema\Dentalsof\Dentalsof\obj\Debug\Dentalsof.csproj.GenerateResource.Cache

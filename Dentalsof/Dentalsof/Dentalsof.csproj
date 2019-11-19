@@ -1,0 +1,286 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E7D50850-A32D-4677-9755-D23FA8590558}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Dentalsof</RootNamespace>
+    <AssemblyName>Dentalsof</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Adapter.cs" />
+    <Compile Include="agenda.cs" />
+    <Compile Include="baseDeDatos.cs" />
+    <Compile Include="Citas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Citas.Designer.cs">
+      <DependentUpon>Citas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clientes_nuevos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clientes_nuevos.Designer.cs">
+      <DependentUpon>Clientes_nuevos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clientes.Designer.cs">
+      <DependentUpon>Clientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Command.cs" />
+    <Compile Include="conexion.cs" />
+    <Compile Include="Costos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Costos.Designer.cs">
+      <DependentUpon>Costos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DENTALSOFTDataSet.cs" />
+    <Compile Include="DENTALSOFTDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DENTALSOFTDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DENTALSOFTDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DENTALSOFTDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DENTALSOFTDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DENTALSOFTDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DENTALSOFTDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DENTALSOFTDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DENTALSOFTDataSet5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DENTALSOFTDataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DENTALSOFTDataSetTableAdapters.cs" />
+    <Compile Include="Expediente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Expediente.Designer.cs">
+      <DependentUpon>Expediente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FactoryMethod.cs" />
+    <Compile Include="historial.cs" />
+    <Compile Include="historialc.cs" />
+    <Compile Include="Historial_clinico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Historial_clinico.Designer.cs">
+      <DependentUpon>Historial_clinico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu_principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu_principal.Designer.cs">
+      <DependentUpon>Menu_principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pago.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pago.Designer.cs">
+      <DependentUpon>Pago.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tratamientos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tratamientos.Designer.cs">
+      <DependentUpon>Tratamientos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="validacion.cs" />
+    <EmbeddedResource Include="Citas.resx">
+      <DependentUpon>Citas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clientes.resx">
+      <DependentUpon>Clientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clientes_nuevos.resx">
+      <DependentUpon>Clientes_nuevos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Costos.resx">
+      <DependentUpon>Costos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Expediente.resx">
+      <DependentUpon>Expediente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Historial_clinico.resx">
+      <DependentUpon>Historial_clinico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu_principal.resx">
+      <DependentUpon>Menu_principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pago.resx">
+      <DependentUpon>Pago.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Tratamientos.resx">
+      <DependentUpon>Tratamientos.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="DENTALSOFTDataSet1.xsc">
+      <DependentUpon>DENTALSOFTDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DENTALSOFTDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DENTALSOFTDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DENTALSOFTDataSet1.xss">
+      <DependentUpon>DENTALSOFTDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DENTALSOFTDataSet2.xsc">
+      <DependentUpon>DENTALSOFTDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="DENTALSOFTDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DENTALSOFTDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DENTALSOFTDataSet2.xss">
+      <DependentUpon>DENTALSOFTDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="DENTALSOFTDataSet3.xsc">
+      <DependentUpon>DENTALSOFTDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="DENTALSOFTDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DENTALSOFTDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DENTALSOFTDataSet3.xss">
+      <DependentUpon>DENTALSOFTDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="DENTALSOFTDataSet4.xsc">
+      <DependentUpon>DENTALSOFTDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="DENTALSOFTDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DENTALSOFTDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DENTALSOFTDataSet4.xss">
+      <DependentUpon>DENTALSOFTDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="DENTALSOFTDataSet5.xsc">
+      <DependentUpon>DENTALSOFTDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="DENTALSOFTDataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DENTALSOFTDataSet5.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DENTALSOFTDataSet5.xss">
+      <DependentUpon>DENTALSOFTDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondo1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondo2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondo3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondo21.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondo11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondo31.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\android-1440x1280-wallpaper_00208.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondo4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondo32.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondo3.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

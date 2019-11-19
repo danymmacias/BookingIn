@@ -1,0 +1,1 @@
+Select nom_paciente, hora_cita, nom_tratamiento,fecha_cita,telf_paciente from agenda WHERE fecha_cita = '2019-09-20' order by hora_cita asc
